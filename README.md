@@ -1,6 +1,6 @@
 # Roll-A-Ball
 
-In this repository you will find a sample app [Roll-a-ball] (https://learn.unity.com/project/roll-a-ball),
+In this repository you will find a sample app [Roll-a-ball](https://learn.unity.com/project/roll-a-ball),
  with some modifications.
 
 
